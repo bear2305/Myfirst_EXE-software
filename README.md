@@ -1,2 +1,2 @@
 # Myfirst_EXE-software
-A simple login applicatation created with C
+A simple login applicatation for Windows created with C++
