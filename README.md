@@ -1,3 +1,4 @@
+<img width="615" height="321" alt="Capture" src="https://github.com/user-attachments/assets/79dea0fd-d253-4716-a518-14ad932d0a92" />
 # Myfirst_EXE-software
 A simple login applicatation for Windows created with C++
 
